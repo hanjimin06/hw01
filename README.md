@@ -13,4 +13,6 @@ At first there were some difficulties in doing this assignment:
 4. My branch was ahead of my master file, so I had to redo. 
 5. I hope in the course of few weeks I'll be able to breeze through these 'minor' inconveniences. 
 
-![Random Photo](Images/IMG_5383.jpg)
+But with help from stack exchange and the TAs, I was able to slowly do all the things listed in the HW. It was a satisfying procedure.
+
+![Random Photo](Images/IMG_5383.JPG)
